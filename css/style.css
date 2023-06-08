@@ -1,0 +1,74 @@
+body{
+    background-color: #000000;
+}
+ul {
+    
+    margin: 0;
+    padding: 0;
+    text-align:center;
+    list-style-type: none;
+    overflow: hidden;
+}
+li {
+    display:inline-block;
+    float:none;
+   
+}
+
+li a {
+    display: block;
+
+    padding:12px 16px;
+
+    background-color: #000000;
+
+    color:white;
+
+    text-decoration:none; 
+}
+li a:hover{
+    background-color:#23834c; 
+}
+.baslik {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100;
+    background-image: linear-gradient(to left, #ffffff, #ffffff);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+.portfolyoimg1{
+    width: 297px;
+    height: 400px;
+    
+
+}
+.aboutimg{
+    width: 300px;
+    margin-left: 1100px;
+    border-radius: 60%;
+}
+.aboutheading{
+    font-size: 55px;
+    color: black;
+    font-family: Georgia, serif;
+}
+.aboutparagraf{
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    font-size: 18px;
+    color:black; 
+    text-align: left; 
+    margin-top:100px;
+}
+.contacth1{
+    font-size: 60px;
+    color: white;
+    margin-left: 60px;
+    font-family: Georgia, serif;
+    
+}
+.contactp{
+    color: #ffffff;
+    text-align: center;
+}
